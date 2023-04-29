@@ -1,0 +1,13 @@
+In GIT we move the code in 3 STAGES:
+  -------------------------------------------------------------------------------------
+ |                                                                                     |
+ | 1.WORKSPACE(untracked files)   2.STAGING/INDEX(files start tracking)    3.LOCAL REPO| 
+ |                                                                                     |
+  ------------------------------------------------------------------------------------- 
+ git log wil be provide commit id i.e., Tracking id  
+ Then push the file to GITHUB(central repo)
+ By default all files will be in workspace
+
+To create empty repository : git init   then .git empty repository will create
+To create user name        : git config --global  user.name "Girija"
+To create user email       : git config --global  user.email "Girija@gmail.com"
