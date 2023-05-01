@@ -1,0 +1,17 @@
+To create files:        To create multiple files:
+touch <filename>         touch f1 f2 f3
+
+To see  all filenames:     To see files in detail:      To see hidden files:    To see files with time and stamp:
+ls -LIST                    ll -LONG LIST                ls -la                  ls -lrth
+
+To see the data in particular file:     To delete particular file:
+cat <filename>                           rm -rf fname/dir.name (will delete particular file)  or rm -rf * (will delete all files)
+
+To create a folder/dir:       To move that particular folder/dir:     To see out from that particular folder/dir:
+ mkdir <dirname>                cd <dirname>                             cd ..
+
+To see the previous used linux commands:          
+History
+
+Editors in window:                editors in LINUX:
+eg:Notepad ,notepad++,paint       eg:vi / vim ,nano
