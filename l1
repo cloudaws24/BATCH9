@@ -1,0 +1,5 @@
+touch
+ls 
+ls -la
+ll
+cat <fname>
